@@ -1,0 +1,1 @@
+<div>this is factory page</div>
